@@ -1,5 +1,5 @@
 # generated: 2025-10-01
-# System Auto: last updated on: 2025-10-01 13:30:02
+# System Auto: last updated on: 2025-10-09 07:49:32
 # Salesforce Onboarding Templates
 
 A collection of templates and resources for systematic onboarding as a Salesforce Administrator/Analyst.
@@ -13,10 +13,19 @@ These templates are based on industry best practices from:
 
 ## Contents
 
-### Templates
+### Onboarding Templates
 - **Induction Checklist** - First week documentation framework
 - **Documentation Standards** - Industry best practices reference
 - **Stakeholder Interview Guide** - Questions for understanding systems
+
+### Work Management Templates
+- **Operational Backlog Template** - Track day-to-day tasks and support requests
+- **Task File Template** - Detailed tracking for individual complex tasks
+- **Work Session Notes Template** - Document daily/weekly progress and learning
+
+### Problem-Solving Templates
+- **Investigation Report Template** - Standardized format for complex troubleshooting
+- **Working Style Guide** - Personal productivity and communication approach
 
 ### Resources
 - Industry framework references
